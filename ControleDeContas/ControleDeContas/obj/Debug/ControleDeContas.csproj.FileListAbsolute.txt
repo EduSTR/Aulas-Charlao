@@ -1,0 +1,10 @@
+C:\Users\eduardo\source\repos\ControleDeContas\ControleDeContas\bin\Debug\ControleDeContas.exe.config
+C:\Users\eduardo\source\repos\ControleDeContas\ControleDeContas\bin\Debug\ControleDeContas.exe
+C:\Users\eduardo\source\repos\ControleDeContas\ControleDeContas\bin\Debug\ControleDeContas.pdb
+C:\Users\eduardo\source\repos\ControleDeContas\ControleDeContas\obj\Debug\ControleDeContas.csprojAssemblyReference.cache
+C:\Users\eduardo\source\repos\ControleDeContas\ControleDeContas\obj\Debug\ControleDeContas.Form1.resources
+C:\Users\eduardo\source\repos\ControleDeContas\ControleDeContas\obj\Debug\ControleDeContas.Properties.Resources.resources
+C:\Users\eduardo\source\repos\ControleDeContas\ControleDeContas\obj\Debug\ControleDeContas.csproj.GenerateResource.cache
+C:\Users\eduardo\source\repos\ControleDeContas\ControleDeContas\obj\Debug\ControleDeContas.csproj.CoreCompileInputs.cache
+C:\Users\eduardo\source\repos\ControleDeContas\ControleDeContas\obj\Debug\ControleDeContas.exe
+C:\Users\eduardo\source\repos\ControleDeContas\ControleDeContas\obj\Debug\ControleDeContas.pdb
