@@ -1,0 +1,10 @@
+C:\Users\eduardo\source\repos\ControleDeContas\Frete\bin\Debug\Frete.exe.config
+C:\Users\eduardo\source\repos\ControleDeContas\Frete\bin\Debug\Frete.exe
+C:\Users\eduardo\source\repos\ControleDeContas\Frete\bin\Debug\Frete.pdb
+C:\Users\eduardo\source\repos\ControleDeContas\Frete\obj\Debug\Frete.csprojAssemblyReference.cache
+C:\Users\eduardo\source\repos\ControleDeContas\Frete\obj\Debug\Frete.Form1.resources
+C:\Users\eduardo\source\repos\ControleDeContas\Frete\obj\Debug\Frete.Properties.Resources.resources
+C:\Users\eduardo\source\repos\ControleDeContas\Frete\obj\Debug\Frete.csproj.GenerateResource.cache
+C:\Users\eduardo\source\repos\ControleDeContas\Frete\obj\Debug\Frete.csproj.CoreCompileInputs.cache
+C:\Users\eduardo\source\repos\ControleDeContas\Frete\obj\Debug\Frete.exe
+C:\Users\eduardo\source\repos\ControleDeContas\Frete\obj\Debug\Frete.pdb
