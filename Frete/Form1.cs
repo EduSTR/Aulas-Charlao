@@ -42,13 +42,13 @@ namespace Frete
             if (ft.getDest().Equals("SP"))
             {
                 ft.FreteSP(Convert.ToInt32(textBox3.Text));
-                MessageBox.Show("Código da carga: " + ft.getCode() + " | Estado de Destino: " + ft.getDest() + " | Valor total a ser pago: $" + ft.FreteSP(Convert.ToInt32(textBox3.Text)));
+                MessageBox.Show("Código da carga: " + ft.getCode() + "\nEstado de Destino: " + ft.getDest() + "\nValor total a ser pago: $" + ft.FreteSP(Convert.ToInt32(textBox3.Text)));
             }
 
             if (ft.getDest().Equals("Outros"))
             {
                 ft.FreteOutros(Convert.ToInt32(textBox3.Text));
-                MessageBox.Show("Código da carga: " + ft.getCode() + " | Estado de Destino: " + ft.getDest() + " | Valor total a ser pago: $" + ft.FreteOutros(Convert.ToInt32(textBox3.Text)));
+                MessageBox.Show("Código da carga: " + ft.getCode() + "\nEstado de Destino: " + ft.getDest() + "\nValor total a ser pago: $" + ft.FreteOutros(Convert.ToInt32(textBox3.Text)));
 
             }
 
