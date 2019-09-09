@@ -1,0 +1,9 @@
+C:\Users\Eduardo\source\repos\AulasCharlao\Ex-Herança-2\obj\Debug\Ex_Herança_2.Form1.resources
+C:\Users\Eduardo\source\repos\AulasCharlao\Ex-Herança-2\obj\Debug\Ex_Herança_2.Properties.Resources.resources
+C:\Users\Eduardo\source\repos\AulasCharlao\Ex-Herança-2\obj\Debug\Ex-Herança-2.csproj.GenerateResource.cache
+C:\Users\Eduardo\source\repos\AulasCharlao\Ex-Herança-2\obj\Debug\Ex-Herança-2.csproj.CoreCompileInputs.cache
+C:\Users\Eduardo\source\repos\AulasCharlao\Ex-Herança-2\bin\Debug\Ex-Herança-2.exe.config
+C:\Users\Eduardo\source\repos\AulasCharlao\Ex-Herança-2\bin\Debug\Ex-Herança-2.exe
+C:\Users\Eduardo\source\repos\AulasCharlao\Ex-Herança-2\bin\Debug\Ex-Herança-2.pdb
+C:\Users\Eduardo\source\repos\AulasCharlao\Ex-Herança-2\obj\Debug\Ex-Herança-2.exe
+C:\Users\Eduardo\source\repos\AulasCharlao\Ex-Herança-2\obj\Debug\Ex-Herança-2.pdb
