@@ -7,3 +7,4 @@ C:\Users\Eduardo\source\repos\AulasCharlao\Ex-Herança-2\bin\Debug\Ex-Herança-2
 C:\Users\Eduardo\source\repos\AulasCharlao\Ex-Herança-2\bin\Debug\Ex-Herança-2.pdb
 C:\Users\Eduardo\source\repos\AulasCharlao\Ex-Herança-2\obj\Debug\Ex-Herança-2.exe
 C:\Users\Eduardo\source\repos\AulasCharlao\Ex-Herança-2\obj\Debug\Ex-Herança-2.pdb
+C:\Users\Eduardo\source\repos\AulasCharlao\Ex-Herança-2\obj\Debug\Ex-Herança-2.csprojAssemblyReference.cache

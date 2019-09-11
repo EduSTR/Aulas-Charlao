@@ -20,18 +20,19 @@ namespace Ex_Herança_2
 
         }
 
-        public string verificaEstagio()
+        public string verificaEstagio(DateTime x)
         {
-            string estagio;
-            if (getData() - DateTime.Now >= TimeSpan.FromDays(6570))
+            string validar;
+
+            if (Convert.ToDateTime(x).AddYears(18) <= DateTime.Now)
             {
-                estagio = "s";
+                validar = "maior";
             }
             else
             {
-                estagio = "n";
+                validar = "menor";
             }
-            return estagio;
+            return validar;
         }
 
     }
